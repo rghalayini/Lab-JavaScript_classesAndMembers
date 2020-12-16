@@ -1,3 +1,5 @@
+//this is a classical exercise in arithmetics
+
 class Rectangle {
     constructor(width, height, color) {
         this.width = width;
